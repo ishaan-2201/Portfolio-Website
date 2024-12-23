@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, currently pursuing a Master’s in Computer Science at Indiana University, Bloomington. Always eager to take on new challenges, I have a passion for learning and am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ishaan-2201",
   resume:
-    "https://drive.google.com/file/d/1HuHA_J5C9NkyNKZWe49fWN5SWCca-YaB/view?usp=sharing",
+    "https://drive.google.com/file/d/1dHxzQ0lVnuy8vtxrp2TpHinyaZbXPxGM/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ishaan-puri-905638191/",
 };
 
@@ -194,6 +194,26 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Spotify",
+    date: "Nov 2024 - Dec 2024",
+    description:
+      "Developed a full-stack music streaming application using the MERN stack, featuring a user-friendly interface for browsing, searching, and playing songs, along with responsive design for seamless usability across devices. Designed and implemented an admin panel enabling administrators to add, edit, or remove songs and playlists.",
+    image:
+      "https://raw.githubusercontent.com/ishaan-2201/Spotify-Full-Stack/refs/heads/main/Spotify-First-Image.png",
+    tags: [
+      "javascript",
+      "react js",
+      "tailwind css",
+      "mongo db",
+      "node js",
+      "express js",
+      "multer",
+      "cloudinary",
+    ],
+    github: "https://github.com/ishaan-2201/Spotify-Full-Stack",
+  },
+  {
+    id: 1,
     title: "Tomato",
     date: "Aug 2024 - Sep 2024",
     description:
@@ -214,7 +234,7 @@ export const projects = [
     github: "https://github.com/ishaan-2201/Tomato-Food-Ordering-App/tree/main",
   },
   {
-    id: 1,
+    id: 2,
     title: "Chat-App",
     date: "Jan 2024 - Mar 2024",
     description:
@@ -232,9 +252,9 @@ export const projects = [
     github: "https://github.com/ishaan-2201/Chat-App/tree/main",
   },
   {
-    id: 2,
+    id: 3,
     title: "VidTube",
-    date: "Apr 2023 - May 2023",
+    date: "Jan 2023 - Feb 2023",
     description:
       "Built VidTube, a video streaming platform mimicking YouTube's core features with React JS and YouTube Data API, supporting video search, playback, and user interaction. Enhanced the user experience with advanced video features, dynamic content loading, and real-time data fetching.",
     image:
@@ -243,7 +263,7 @@ export const projects = [
     github: "https://github.com/ishaan-2201/VidTube",
   },
   {
-    id: 3,
+    id: 4,
     title: "AI Image Generator",
     date: "Dec 2021",
     description:
@@ -252,24 +272,6 @@ export const projects = [
       "https://github.com/ishaan-2201/AI-Image-Generator/blob/main/Screenshot%202024-11-10%20194427.png?raw=true",
     tags: ["javascript", "react js", "open ai api"],
     github: "https://github.com/ishaan-2201/AI-Image-Generator/tree/main",
-  },
-  {
-    id: 4,
-    title: "Hirrd",
-    date: "Nov 2024 - Present",
-    description:
-      "Currently developing a job portal application using React.js, Tailwind CSS, Supabase, Clerk, and ShadCN UI, enabling candidates to apply for jobs, upload resumes, and track their application status. Implementing employer functionality for posting jobs, reviewing applications, and managing application statuses.",
-    image:
-      "https://github.com/ishaan-2201/Hirrd-Job-Portal-Application/blob/main/Screenshot%202024-11-10%20195333.png?raw=true",
-    tags: [
-      "javascript",
-      "react js",
-      "tailwind css",
-      "supabase",
-      "clerk",
-      "shadcn ui",
-    ],
-    github: "https://github.com/ishaan-2201/Hirrd-Job-Portal-Application",
   },
   {
     id: 5,

@@ -94,7 +94,7 @@ function Footer() {
           <NavLink href="#projects">Projects</NavLink>
           <NavLink href="#education">Education</NavLink>
         </Nav>
-        <Copyright>&copy; 2024 Ishaan Puri. All rights reserved.</Copyright>
+        <Copyright>&copy; 2025 Ishaan Puri. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );

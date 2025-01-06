@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, currently pursuing a Master’s in Computer Science at Indiana University, Bloomington. Always eager to take on new challenges, I have a passion for learning and am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ishaan-2201",
   resume:
-    "https://drive.google.com/file/d/1dHxzQ0lVnuy8vtxrp2TpHinyaZbXPxGM/view?usp=sharing",
+    "https://drive.google.com/file/d/1H1SGYT0rTTe9GOqAnSW1Vax_8eELVxL7/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ishaan-puri-905638191/",
 };
 
@@ -46,6 +46,11 @@ export const skills = [
         name: "Bootstrap",
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+      },
+      {
+        name: "Clerk",
+        image:
+          "data:image/png;base64,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",
       },
     ],
   },
@@ -194,8 +199,29 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Bg Removal App",
+    date: "Dec 2024 - Jan 2025",
+    description:
+      "Developed a full-stack background removal application using React, MongoDB, Clerk, and Tailwind CSS, integrating the ClipDrop API for background removal and Razorpay for secure payment processing. Implemented Clerk webhooks for real-time user updates and synchronization, ensuring data consistency in MongoDB.",
+    image:
+      "https://github.com/ishaan-2201/Bg-Removal-App/blob/main/Home-Page.png?raw=true",
+    tags: [
+      "javascript",
+      "react js",
+      "tailwind css",
+      "mongo db",
+      "node js",
+      "express js",
+      "multer",
+      "clerk",
+      "razor pay",
+    ],
+    github: "https://github.com/ishaan-2201/Bg-Removal-App",
+  },
+  {
+    id: 1,
     title: "Spotify",
-    date: "Nov 2024 - Dec 2024",
+    date: "Oct 2024 - Nov 2024",
     description:
       "Developed a full-stack music streaming application using the MERN stack, featuring a user-friendly interface for browsing, searching, and playing songs, along with responsive design for seamless usability across devices. Designed and implemented an admin panel enabling administrators to add, edit, or remove songs and playlists.",
     image:
@@ -213,7 +239,7 @@ export const projects = [
     github: "https://github.com/ishaan-2201/Spotify-Full-Stack",
   },
   {
-    id: 1,
+    id: 2,
     title: "Tomato",
     date: "Aug 2024 - Sep 2024",
     description:
@@ -234,7 +260,7 @@ export const projects = [
     github: "https://github.com/ishaan-2201/Tomato-Food-Ordering-App/tree/main",
   },
   {
-    id: 2,
+    id: 3,
     title: "Chat-App",
     date: "Jan 2024 - Mar 2024",
     description:
@@ -252,7 +278,7 @@ export const projects = [
     github: "https://github.com/ishaan-2201/Chat-App/tree/main",
   },
   {
-    id: 3,
+    id: 4,
     title: "VidTube",
     date: "Jan 2023 - Feb 2023",
     description:
@@ -263,7 +289,7 @@ export const projects = [
     github: "https://github.com/ishaan-2201/VidTube",
   },
   {
-    id: 4,
+    id: 5,
     title: "AI Image Generator",
     date: "Dec 2021",
     description:
@@ -274,7 +300,7 @@ export const projects = [
     github: "https://github.com/ishaan-2201/AI-Image-Generator/tree/main",
   },
   {
-    id: 5,
+    id: 6,
     title: "Portfolio-Website",
     date: "Nov 2024",
     description:

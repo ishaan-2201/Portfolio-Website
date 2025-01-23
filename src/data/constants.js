@@ -5,8 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, currently pursuing a Master’s in Computer Science at Indiana University, Bloomington. Always eager to take on new challenges, I have a passion for learning and am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ishaan-2201",
   resume:
-    "https://drive.google.com/file/d/1H1SGYT0rTTe9GOqAnSW1Vax_8eELVxL7/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/ishaan-puri-905638191/",
+    "https://drive.google.com/file/d/1Jvmb3XYDO3jK7whNbXY49okh9F_hGopW/view?usp=sharing",
 };
 
 export const skills = [

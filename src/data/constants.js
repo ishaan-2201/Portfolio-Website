@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, currently pursuing a Master’s in Computer Science at Indiana University, Bloomington. Always eager to take on new challenges, I have a passion for learning and am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ishaan-2201",
   resume:
-    "https://drive.google.com/file/d/1Jvmb3XYDO3jK7whNbXY49okh9F_hGopW/view?usp=sharing",
+    "https://drive.google.com/file/d/1d0srxwGPK--v63qwBudtnCk4J0bHddwB/view?usp=sharing",
 };
 
 export const skills = [
@@ -130,6 +130,22 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://media.licdn.com/dms/image/v2/D560BAQHvxkLYVG95JA/company-logo_200_200/company-logo_200_200/0/1692300973410/kelley_school_of_business_logo?e=1747267200&v=beta&t=gTjr4_84lXQ2olrBP2o7SxPkDCTudeHrnB06rA0Sk7M",
+    role: "Research Assistant",
+    company: "Indiana University - Kelley School of Business",
+    date: "Jan 2025 - Present",
+    desc: "Analyzed fMRI functional connectivity and behavioral data to identify neural patterns. Applied machine learning models for behavior prediction and psychiatric classification.",
+    skills: [
+      "fMRI Analysis",
+      "Machine Learning",
+      "Python",
+      "Statistical Modeling",
+      "Data Preprocessing",
+    ],
+  },
+
+  {
+    id: 1,
     img: "https://th.bing.com/th/id/OIP.JBJ63bMENpnSb3JJ27dlLgAAAA?rs=1&pid=ImgDetMain",
     role: "Software Engineer Intern",
     company: "Seismic",
@@ -145,7 +161,7 @@ export const experiences = [
     doc: "https://drive.google.com/file/d/1niJkTCTVhZUBVGlbPJxd4NhEQH1bu6Wo/view?usp=sharing",
   },
   {
-    id: 1,
+    id: 2,
     img: "https://logosandtypes.com/wp-content/uploads/2022/04/Persistent.png",
     role: "Software Engineer Intern",
     company: "Persistent Systems",
@@ -163,7 +179,7 @@ export const experiences = [
     doc: "https://drive.google.com/file/d/1hf90EaxLWFb_WnZgVWSYawP4wcWkcehn/view?usp=sharing",
   },
   {
-    id: 2,
+    id: 3,
     img: "https://c8.alamy.com/comp/2M8NB47/harman-international-rotated-logo-white-background-b-2M8NB47.jpg",
     role: "Software Developer Intern",
     company: "Harman Connected Services",

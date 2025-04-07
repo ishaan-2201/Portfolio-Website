@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, currently pursuing a Master’s in Computer Science at Indiana University, Bloomington. Always eager to take on new challenges, I have a passion for learning and am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ishaan-2201",
   resume:
-    "https://drive.google.com/file/d/1_8ErWOrab6qPZ3TJDcARV3kRpi9L91pd/view?usp=sharing",
+    "https://drive.google.com/file/d/13O6sgTMnczyQtldXA-ZJVzE1j4xUjnSK/view?usp=sharing",
 };
 
 export const skills = [
@@ -32,6 +32,11 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
       },
       {
+        name: "Tailwind",
+        image:
+          "data:image/png;base64,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",
+      },
+      {
         name: "JavaScript",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
@@ -50,6 +55,11 @@ export const skills = [
         name: "Clerk",
         image:
           "data:image/png;base64,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",
+      },
+      {
+        name: "Shadcn UI",
+        image:
+          "data:image/png;base64,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",
       },
     ],
   },
@@ -83,6 +93,15 @@ export const skills = [
         name: "Supabase",
         image:
           "https://miro.medium.com/v2/resize:fit:1200/1*xOqCfciF90c8nH0HhMpapQ.png",
+      },
+      {
+        name: "Socket.io",
+        image:
+          "https://ik.imagekit.io/ably/ghost/prod/2021/03/socket-io-logo-1.jpeg?tr=w-1728,q-50",
+      },
+      {
+        name: "Drizzle ORM",
+        image: "https://pbs.twimg.com/media/F7V2rLQWUAAgaLh.jpg",
       },
     ],
   },
@@ -214,6 +233,25 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Custom Chess Game",
+    date: "Apr 2025-Present",
+    description:
+      "Developed a full-stack chess platform using Node.js, Express, Socket.io, and chess.js, enabling real-time multiplayer matches with automated role assignment (white/black/spectator) and board state synchronization using FEN notation. •	Implemented drag-and-drop gameplay in the frontend with dynamic board rendering, turn validation, and move broadcasting through WebSocket events, ensuring seamless, interactive gameplay across all connected clients.",
+    image:
+      "https://github.com/ishaan-2201/Custom-Chess-Game/blob/main/Game-screenshot.png?raw=true",
+    tags: [
+      "javascript",
+      "tailwind css",
+      "socket.io",
+      "node js",
+      "express js",
+      "chess js",
+      "ejs",
+    ],
+    github: "https://github.com/ishaan-2201/Custom-Chess-Game",
+  },
+  {
+    id: 1,
     title: "Bg Removal App",
     date: "Dec 2024 - Jan 2025",
     description:
@@ -234,7 +272,7 @@ export const projects = [
     github: "https://github.com/ishaan-2201/Bg-Removal-App",
   },
   {
-    id: 1,
+    id: 2,
     title: "Spotify",
     date: "Oct 2024 - Nov 2024",
     description:
@@ -254,7 +292,7 @@ export const projects = [
     github: "https://github.com/ishaan-2201/Spotify-Full-Stack",
   },
   {
-    id: 2,
+    id: 3,
     title: "Tomato",
     date: "Aug 2024 - Sep 2024",
     description:
@@ -275,7 +313,7 @@ export const projects = [
     github: "https://github.com/ishaan-2201/Tomato-Food-Ordering-App/tree/main",
   },
   {
-    id: 3,
+    id: 4,
     title: "Chat-App",
     date: "Jan 2024 - Mar 2024",
     description:
@@ -293,7 +331,7 @@ export const projects = [
     github: "https://github.com/ishaan-2201/Chat-App/tree/main",
   },
   {
-    id: 4,
+    id: 5,
     title: "VidTube",
     date: "Jan 2023 - Feb 2023",
     description:
@@ -304,7 +342,7 @@ export const projects = [
     github: "https://github.com/ishaan-2201/VidTube",
   },
   {
-    id: 5,
+    id: 6,
     title: "AI Image Generator",
     date: "Dec 2021",
     description:
@@ -315,7 +353,7 @@ export const projects = [
     github: "https://github.com/ishaan-2201/AI-Image-Generator/tree/main",
   },
   {
-    id: 6,
+    id: 7,
     title: "Portfolio-Website",
     date: "Nov 2024",
     description:
